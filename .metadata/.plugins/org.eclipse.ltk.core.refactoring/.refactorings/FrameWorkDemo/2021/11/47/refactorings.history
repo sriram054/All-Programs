@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move package &apos;DataDriven&apos; to &apos;naveenAutomatedTestingPractise/src&apos;&#x0D;&#x0A;- Original project: &apos;FrameWorkDemo&apos;&#x0D;&#x0A;- Destination element: &apos;naveenAutomatedTestingPractise/src&apos;&#x0D;&#x0A;- Original element: &apos;FrameWorkDemo/src/DataDriven&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move package" destination="=naveenAutomatedTestingPractise/src" element1="/src&lt;DataDriven" flags="589830" fragments="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1636865498674" version="1.0"/>
+</session>

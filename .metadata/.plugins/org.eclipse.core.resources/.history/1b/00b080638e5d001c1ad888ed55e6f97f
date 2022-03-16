@@ -1,0 +1,13 @@
+package StringPrograms;
+
+public class JoiningTwoString {
+
+	public static void main(String[] args) {
+		 String first="Java";
+		 String second="Programming";
+		 String joining=first.concat(second);
+		 System.out.println(joining);
+
+	}
+
+}
